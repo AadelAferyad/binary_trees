@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * post_order - function helper post-order traversal
+ * post_order - Function helper post-order traversal
  * using recursion
  * @root: the node of the tree
  * @func: pointer to function that take integer as argument
