@@ -33,7 +33,7 @@
 | 5. Is root                      | [5-binary_tree_is_root.c](./5-binary_tree_is_root.c)           |
 | 6. Pre-order traversal          | [6-binary_tree_preorder.c](./6-binary_tree_preorder.c)         |
 | 7. In-order traversal           | [7-binary_tree_inorder.c](./7-binary_tree_inorder.c)           |
-| 8. Post-order traversal         | [SOON](./)                                                     |
+| 8. Post-order traversal         | [8-binary_tree_postorder.c](./8-binary_tree_postorder.c)       |
 | 9. Height                       | [SOON](./)                                                     |
 | 10. Depth                       | [SOON](./)                                                     |
 | 11. Size                        | [SOON](./)                                                     |
