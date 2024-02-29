@@ -37,7 +37,7 @@
 | 9. Height                       | [9-binary_tree_height.c](./9-binary_tree_height.c)             |
 | 10. Depth                       | [10-binary_tree_depth.c](./10-binary_tree_depth.c)             |
 | 11. Size                        | [11-binary_tree_size.c](./11-binary_tree_size.c)               |
-| 12. Leaves                      | [SOON](./)                                                     |
+| 12. Leaves                      | [12-binary_tree_leaves.c](./12-binary_tree_leaves.c)           |
 | 13. Nodes                       | [SOON](./)                                                     |
 | 14. Balance factor              | [SOON](./)                                                     |
 | 15. Is full                     | [SOON](./)                                                     |
