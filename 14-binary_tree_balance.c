@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * height - function helper finds height
+ * height - Function helper finds height
  * using recursion
  * @tree: the tree
  * Return: height other ways 0
