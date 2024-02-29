@@ -2,7 +2,7 @@
 
 
 /**
- * binary_tree_node - Entry point
+ * binary_tree_node - Entry Point
  * @parent: the parent node or root node
  * @value: value the node will take
  * Return: Always node (Success) other ways return NULL
