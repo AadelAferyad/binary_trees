@@ -21,7 +21,7 @@ size_t height(const binary_tree_t *tree)
 
 
 /**
- * binary_tree_balance - measures the balance factor of a binary tree
+ * binary_tree_balance - Measures the balance factor of a binary tree
  * @tree: the tree
  * Return: counts other ways 0
  */
