@@ -3,7 +3,7 @@
 
 
 /**
- * binary_tree_insert_left - inserts a node as the left-child of another node
+ * binary_tree_insert_left - Inserts a node as the left-child of another node
  * @parent: the parent node or root node
  * @value: value the node will take
  * Return: Always node (Success) other ways return NULL
