@@ -40,7 +40,7 @@
 | 12. Leaves                      | [12-binary_tree_leaves.c](./12-binary_tree_leaves.c)           |
 | 13. Nodes                       | [13-binary_tree_nodes.c](./13-binary_tree_nodes.c)             |
 | 14. Balance factor              | [14-binary_tree_balance.c](./14-binary_tree_balance.c)         |
-| 15. Is full                     | [SOON](./)                                                     |
+| 15. Is full                     | [15-binary_tree_is_full.c](./15-binary_tree_is_full.c)         |
 | 16. Is perfect                  | [SOON](./)                                                     |
 | 17. Sibling                     | [SOON](./)                                                     |
 | 18. Uncle                       | [SOON](./)                                                     |
