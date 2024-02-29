@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * free_using_recursion - deletes nodes using recursion.
+ * free_using_recursion - Deletes nodes using recursion.
  * @root: pointer to the root of the tree
  */
 
