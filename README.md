@@ -30,7 +30,7 @@
 | 2. Insert right                 | [2-binary_tree_insert_right.c](./2-binary_tree_insert_right.c) |
 | 3. Delete                       | [3-binary_tree_delete.c](./3-binary_tree_delete.c)             |
 | 4. Is leaf                      | [4-binary_tree_is_leaf.c](./4-binary_tree_is_leaf.c)           |
-| 5. Is root                      | [SOON](./)                                                     |
+| 5. Is root                      | [5-binary_tree_is_root.c](./5-binary_tree_is_root.c)           |
 | 6. Pre-order traversal          | [SOON](./)                                                     |
 | 7. In-order traversal           | [SOON](./)                                                     |
 | 8. Post-order traversal         | [SOON](./)                                                     |
