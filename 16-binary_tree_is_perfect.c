@@ -2,7 +2,7 @@
 
 
 /**
- * height - Function helper finds height
+ * height - function helper finds height
  * using recursion
  * @tree: the tree
  * Return: height other ways 0
