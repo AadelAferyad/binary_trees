@@ -35,7 +35,7 @@
 | 7. In-order traversal           | [7-binary_tree_inorder.c](./7-binary_tree_inorder.c)           |
 | 8. Post-order traversal         | [8-binary_tree_postorder.c](./8-binary_tree_postorder.c)       |
 | 9. Height                       | [9-binary_tree_height.c](./9-binary_tree_height.c)             |
-| 10. Depth                       | [SOON](./)                                                     |
+| 10. Depth                       | [10-binary_tree_depth.c](./10-binary_tree_depth.c)             |
 | 11. Size                        | [SOON](./)                                                     |
 | 12. Leaves                      | [SOON](./)                                                     |
 | 13. Nodes                       | [SOON](./)                                                     |
