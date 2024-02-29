@@ -43,7 +43,7 @@
 | 15. Is full                     | [15-binary_tree_is_full.c](./15-binary_tree_is_full.c)         |
 | 16. Is perfect                  | [16-binary_tree_is_perfect.c](./16-binary_tree_is_perfect.c)   |
 | 17. Sibling                     | [17-binary_tree_sibling.c](./17-binary_tree_sibling.c)         |
-| 18. Uncle                       | [SOON](./)                                                     |
+| 18. Uncle                       | [18-binary_tree_uncle.c](./18-binary_tree_uncle.c)             |
 | 19. Lowest common ancestor      | [SOON](./)                                                     |
 | 20. Level-order traversal       | [SOON](./)                                                     |
 | 21. Is complete                 | [SOON](./)                                                     |
